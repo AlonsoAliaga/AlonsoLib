@@ -4,6 +4,10 @@ Plugin with required classes and library for some of my plugins.\
 \
 **This plugin does NOT do anything by itself.**\
 The plugin contains required classes for some of my plugins.\
+
+## Included libraries:
+- [adventure-bukkit-plataform](https://github.com/KyoriPowered/adventure-platform)
+
 \
 **Install it only if the plugin requires it for additional features.**
 ## Resources
