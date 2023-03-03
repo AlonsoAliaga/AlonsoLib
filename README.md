@@ -17,7 +17,7 @@ The plugin contains required classes for some of my plugins.
 - [Issue tracker](https://github.com/AlonsoAliaga/AlonsoLib/issues)
 - [Donate](https://paypal.me/AlonsoAliaga)
 - [bStats](https://bstats.org/plugin/bukkit/AlonsoLib/12887)
-- [DeveloperAPI](https://github.com/AlonsoAliaga/AlonsoLib/wiki/How-to-use)
+- [How to depend on it?](https://github.com/AlonsoAliaga/AlonsoLib/wiki/How-to-use)
 
 ## Plugin statistics
 ![bStats.org](https://bstats.org/signatures/bukkit/AlonsoLib.svg)
