@@ -9,6 +9,7 @@ The plugin contains required classes for some of my plugins.
 
 ## Included libraries:
 - [adventure-bukkit-plataform](https://github.com/KyoriPowered/adventure-platform)
+- [adventure-mini-message](https://github.com/KyoriPowered/adventure)
 
 ## Resources
 - [Spigot resource (Not released)](https://github.com/AlonsoAliaga/AlonsoLib/)
